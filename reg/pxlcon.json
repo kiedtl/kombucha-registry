@@ -1,0 +1,8 @@
+
+{
+  "name": "pxlcon",
+  "vendor": "lptstr",
+  "version": "1.0.0",
+  "description": "[WIP] 🖌️ pxlcon - A pixel art editor for the terminal. Like pxltrm, but cross-platform.",
+  "bin": [ "pxlcon.ps1" ]
+}
