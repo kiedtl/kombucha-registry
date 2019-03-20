@@ -4,7 +4,7 @@
   "vendor": "lptstr",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "[WIP] 🖌️ pxlcon - A pixel art editor for the terminal. Like pxltrm, but cross-platform.",
+  "description": "A pixel art editor for the terminal.",
   "global": "true",
   "bin": [ "pxlcon.ps1" ]
 }
