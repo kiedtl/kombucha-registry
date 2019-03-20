@@ -5,9 +5,18 @@
   "license": "MIT",
   "description": "Give your PowerShell some pizazz.",
   "git_url": "git@github.com:lukesampson/psutils.git",
+  "platform": "win32",
   "global": "true",
   "bin": [ 
     "gitignore.ps1",
-    "say.ps1"
+    "say.ps1",
+    "ln.ps1",
+    "runat.ps1",
+    "shasum.ps1",
+    "touch.ps1",
+    "time.ps1",
+    "sudo.ps1",
+    "shim.ps1",
+    "vimtutor.ps1
   ]
 }
