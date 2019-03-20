@@ -3,7 +3,7 @@
   "vendor": "lukesampson",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "Give your PowerShell some pizazz.",
+  "description": "Command line utilities written in Powershell",
   "git_url": "git@github.com:lukesampson/psutils.git",
   "platform": "win32",
   "global": "true",
