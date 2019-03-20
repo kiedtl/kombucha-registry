@@ -1,0 +1,6 @@
+{
+  "name": "pshazz",
+  "version": "1.0.0",
+  "description": "Give your PowerShell some pizazz.",
+  "bin": [ "bin/pshazz.ps1" ]
+}
