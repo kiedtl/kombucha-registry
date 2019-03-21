@@ -1,0 +1,9 @@
+{
+  "name": "meow",
+  "vendor": "kiedtl",
+  "version": "1.0.0",
+  "description": "A minimalistic lolcat clone in PowerShell",
+  "global": "true",
+  "git_url": "git@github.com:kiedtl/Meow.git",
+  "bin": [ "bin/meow.ps1" ],
+}
