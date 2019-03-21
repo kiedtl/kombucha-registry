@@ -1,8 +1,9 @@
 {
   "name": "pshazz",
-  "vendor": "lukesampson",
+  "vendor": "kiedtl",
   "version": "1.0.0",
   "description": "Give your PowerShell some pizazz.",
+  "global": "true",
   "bin": [ "bin/pshazz.ps1" ],
   "platform": "win32"
 }
