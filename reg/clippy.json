@@ -1,0 +1,9 @@
+{
+  "name": "clippy",
+  "vendor": "lptstr",
+  "version": "1.0.0",
+  "description": "A lightweight clipboard utility for the terminal",
+  "global": "true",
+  "git_url": "git@github.com:lptstr/clippy.git",
+  "bin": [ "src/clippy" ],
+}
