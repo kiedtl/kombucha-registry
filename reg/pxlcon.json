@@ -2,7 +2,7 @@
 {
   "name": "pxlcon",
   "vendor": "lptstr",
-  "version": "1.0.0",
+  "manifest_version": "1.0.0",
   "license": "MIT",
   "description": "A pixel art editor for the terminal.",
   "global": "true",
