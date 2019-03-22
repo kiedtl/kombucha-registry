@@ -2,7 +2,7 @@
   "name": "psutils",
   "vendor": "lukesampson",
   "version": "1.0.0",
-  "license": "MIT",
+  "manifest_license": "MIT",
   "description": "Command line utilities written in Powershell",
   "git_url": "git@github.com:lukesampson/psutils.git",
   "platform": "win32",
