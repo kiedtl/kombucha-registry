@@ -1,7 +1,8 @@
 {
   "name": "clippy",
   "vendor": "lptstr",
-  "version": "1.0.0",
+  "manifest_version": "1.0.0",
+  "license": "MIT",
   "description": "A lightweight clipboard utility for the terminal",
   "global": "true",
   "git_url": "git@github.com:lptstr/clippy.git",
