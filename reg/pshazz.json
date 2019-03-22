@@ -2,6 +2,7 @@
   "name": "pshazz",
   "vendor": "kiedtl",
   "manifest_version": "1.0.0",
+  "license": "Unlicense",
   "description": "Give your PowerShell some pizazz.",
   "global": "true",
   "bin": [ "bin/pshazz.ps1" ],
