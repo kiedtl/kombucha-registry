@@ -1,0 +1,7 @@
+{
+  "name": "interrogate",
+  "vendor": "lptstr",
+  "manifest_version": "1.0.0",
+  "license": "MIT",
+  "description": "Enquirer for PowerShell"
+}
