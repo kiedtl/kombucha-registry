@@ -1,0 +1,7 @@
+{
+  "name": "die",
+  "vendor": "kiedtl",
+  "manifest_version": "1.0.0",
+  "license": "MIT",
+  "description": "the 'die' function for PowerShell"
+}
