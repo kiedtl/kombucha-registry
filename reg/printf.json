@@ -1,0 +1,8 @@
+{
+  "name": "printf",
+  "vendor": "kiedtl",
+  "manifest_version": "1.0.0",
+  "license": "MIT",
+  "description": "the 'printf' function for PowerShell",
+  "git_url": "git@github.com:kiedtl/printf.ps.git"
+}
