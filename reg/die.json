@@ -3,5 +3,6 @@
   "vendor": "kiedtl",
   "manifest_version": "1.0.0",
   "license": "MIT",
-  "description": "the 'die' function for PowerShell"
+  "description": "the 'die' function for PowerShell",
+  "git_url": "git@github.com:kiedtl/die.ps.git"
 }
